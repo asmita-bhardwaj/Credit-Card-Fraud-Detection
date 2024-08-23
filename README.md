@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection using Logistic Regression & Decision Tree Classifier
 
 This repository contains a machine learning project focused on detecting fraudulent credit card transactions using a variety of techniques. The dataset is highly imbalanced, and this project explores 2 different methods of handling this imbalance: undersampling and oversampling. Two machine learning models, Logistic Regression and Decision Tree Classifier, are used to perform the classification.
 
@@ -11,6 +11,7 @@ To tackle the challenge of imbalanced data, this project employs techniques like
 ## Dataset
 
 The dataset used in this project contains transactions made by European cardholders in September 2013. It has 284,807 transactions, of which only 492 (0.17%) are fraudulent. This imbalance makes it a perfect case study for exploring techniques to handle imbalanced datasets.
+You can find and download the dataset from Kaggle [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download).
 
 ## Project Structure
 
